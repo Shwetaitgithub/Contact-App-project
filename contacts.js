@@ -13,11 +13,12 @@ const contacts = [
     photo: "AI.png"
   },
   {
-    name: "Linus Torvald",
+    name: "Monalisa",
     mobile: "9988776655",
     email: "linus@example.com",
-    photo: "linus.jpg"
+    photo: "monalisa.jpg"
   }
 ];
 
 export default contacts;
+
